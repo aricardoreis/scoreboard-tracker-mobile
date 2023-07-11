@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "595709720599",
+    "project_id": "scoreboard-tracker",
+    "storage_bucket": "scoreboard-tracker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595709720599:android:33838802a393d8f1888452",
+        "android_client_info": {
+          "package_name": "com.rolim.scoreboard_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595709720599-bluuvj2tobn7ptvc5tlpqceai4bjtoqn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcAAPSJJOkWIU4YvbteH8QEhH6RaHhmp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "595709720599-bluuvj2tobn7ptvc5tlpqceai4bjtoqn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
